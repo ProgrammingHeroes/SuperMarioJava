@@ -1,0 +1,29 @@
+// Cargador de imágenes para *ScrollGame*
+// NO modificar los nombres que se encuentran antes del '=' ni los números.
+// NO está recomendado el cambio de las imágenes que vienen predeterminadas,
+// pero en caso de hacerlo, sería conveniente que tuvieran el mismo tamaño.
+
+// Carga todas las imágenes de Mario
+3 mario=mario/mario1.gif 2 15 0_0=marioRStop 0_1=marioRJump 0_2=marioFStop 0_3=marioStairs1 0_4=marioRCrouch 0_5=marioRSlip 0_6=marioRWalk1 0_7=marioRWalk2 0_8=marioRWalk3 1_0=marioLStop 1_1=marioLJump 1_2=marioBStop 1_3=marioStairs2 1_4=marioLCrouch 1_5=marioLSlip 1_6=marioLWalk1 1_7=marioLWalk2 1_8=marioLWalk3
+
+// Carga todas las imágenes de Luigi
+// TODO
+
+// Carga todos los fondos de las partidas
+1 back1=background1.gif
+1 back2=background2.gif
+1 back3=background3.gif
+
+// Para las monedas del juego
+3 coin=coins/coin.gif 4 1
+3 coinEfect=coins/coinEfect.gif 7 1
+
+// Para los ladrillos
+3 brick=bricks/brick.gif 4 1
+
+// Para las cajas sorpresa
+3 box=boxes/surpriseBox.gif 4 1
+1 voidBox=boxes/voidBox.gif
+
+
+

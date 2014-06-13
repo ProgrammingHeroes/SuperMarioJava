@@ -1,0 +1,5 @@
+// Cargamos la canción.
+1 song1=song.wav
+
+// Cargamos el sonido que se produce al golpear un Brick
+1 blockHit=block-hit.wav
