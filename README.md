@@ -7,6 +7,8 @@ The aim of this game is to collect all the coins of the levels.
 Go here if you want to see a gameplay:
 http://programmingheroes.blogspot.com.es/2013/05/remake-super-mario-java.html
 
+NOTE: TO GET A COIN THAT IS BETWEEN TWO BLOCKS, YOU WILL HAVE TO TAP THE SPACEBAR VERY LIGHTLY TO JUMP AND QUICKLY TAP THE LEFT OR RIGHT BUTTON AS YOU ARE FALLING.
+
 -----------------------------------------------------------------------------
 
 Básico juego de Super Mario Bros hecho en Java.
@@ -14,6 +16,8 @@ El objetivo es recolectar todas las monedas de cada nivel.
 
 Para ver un vídeo del juego en funcionamiento puedes visitar:
 http://programmingheroes.blogspot.com.es/2013/05/remake-super-mario-java.html
+
+OJO: PARA COGER UNA MONEDA QUE ESTÁ ENTRE DOS BLOQUES, TIENE QUE CLIQUEAR LA BARRA ESPACIADORA LIGERAMENTE PARA SALTAR Y CLIQUEAR RÁPIDAMENTE EL IZQUIERDO O EL DERECHO MIENTRAS ESTÁ CAYÉNDOSE.
 
 -----------------------------------------------------------------------------
 
